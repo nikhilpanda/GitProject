@@ -9,4 +9,6 @@ I'm learning Git and version control to track my work.
 - Push my work to GitHubD
 
 ## What I Learned Today
-- Git tracks changes to files over time 
+- Git tracks changes to files over time
+- Branches let you experiment without affecting the main project
+- You can merge branches back together when ready
