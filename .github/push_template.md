@@ -18,3 +18,4 @@ Closes #(issue number)
 - [ ] My changes follow the project's style
 - [ ] I have tested my changes locally
 - [ ] I have updated documentation if needed
+- PR templates save time on every future pull request
