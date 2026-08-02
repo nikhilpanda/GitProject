@@ -1,7 +1,7 @@
 # App Configuration
 
 ## Server
-- port: 3000
+- port: 300
 - host: localhost
 
 ## Database
