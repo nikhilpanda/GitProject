@@ -2,3 +2,4 @@
 
 ## Server
 - port: 3000
+- host: localhost
