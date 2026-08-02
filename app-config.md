@@ -12,3 +12,7 @@
 ## Logging
 - level: info
 - format: json
+
+## Cache
+- enabled: true
+- ttl: 3600
