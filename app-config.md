@@ -16,3 +16,7 @@
 ## Cache
 - enabled: true
 - ttl: 3600
+
+## Auth
+- provider: github
+- timeout: 30
